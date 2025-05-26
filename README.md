@@ -1,4 +1,4 @@
-# Huntington-Disease consecutive CAG repeats in a DNA sequence 
+# Detecting Huntington-Disease consecutive CAG repeats in the HTT gene and the stage of the disease
 # Import the tkinter library for GUI development and os for file path handling
 import tkinter as tk
 import os
